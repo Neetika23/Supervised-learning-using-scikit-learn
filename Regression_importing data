@@ -1,3 +1,7 @@
+//your goal will be to use this data to predict the life expectancy in a given country based on 
+//features such as the country's GDP, fertility rate, and population. At first we used fertility as the only feature.
+
+
 # Import numpy and pandas
 import numpy as np
 import pandas as pd
